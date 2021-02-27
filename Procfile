@@ -1,1 +1,0 @@
-web: sh create_config.sh && streamlit --server.port $PORT run iris.py
